@@ -79,7 +79,10 @@ This project reinforced the importance of behavioral analysis in cyber threat in
 * [Methodology](methodology.md)
 
 ---
-
+## Related Work
+- **[Decentralized Threat Actor Analysis](https://github.com/velveteenlabs/decentralized-threat-actor-analysis)** - Strategic framework for understanding recruitment pathways and ecosystem dynamics
+- **[Velveteen Defense Suite](https://github.com/velveteenlabs/velveteen-defense-suite)** - Technical tools for investigating threats identified through behavioral analysis
+- 
 ## Notes
 
 This project is a generalized and sanitized OSINT case study.
