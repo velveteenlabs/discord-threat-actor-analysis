@@ -59,6 +59,16 @@ Understanding:
 
 is critical to identifying how threat actors operate and scale.
 
+## Analyst Perspective
+
+The primary challenge in this investigation was distinguishing between casual online interaction and structured, coordinated behavior.
+
+Rather than focusing on individual messages, the analysis emphasized patterns across interactions, including communication tone, role differentiation, and consistency in behavior.
+
+The key insight was that coordination can often be identified through structure rather than explicit intent. Indicators such as repeated deference, controlled information flow, and incremental engagement suggested a level of organization beyond informal communication.
+
+This project reinforced the importance of behavioral analysis in cyber threat intelligence, particularly in environments where technical indicators may be limited or absent.
+
 ---
 
 ## Additional Documentation
